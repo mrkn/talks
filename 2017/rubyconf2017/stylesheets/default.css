@@ -1,0 +1,68 @@
+@import url(Yanone_Kaffeesatz.css);
+@import url(Droid_Serif.css);
+@import url(Ubuntu_Mono.css);
+
+body { font-family: 'Droid Serif'; }
+h1, h2, h3 {
+  font-family: 'Yanone Kaffeesatz';
+  font-weight: normal;
+}
+h1 {
+  font-weight: bold;
+}
+
+.w50pct img {
+  width: 50%;
+}
+.w80pct img {
+  width: 80%;
+}
+.center {
+  text-align: center;
+}
+.hide {
+  display: none;
+}
+
+.remark-slide-content {
+  font-size: 28px;
+  hyphens: auto;
+}
+
+.remark-code, .remark-inline-code {
+  font-family: 'Ubuntu Mono';
+}
+
+.title_page.remark-slide-content {
+  font-size: 22px;
+}
+
+.title_page h1 {
+  font-size: 68px;
+  font-weight: bold;
+}
+
+.title_page h2 {
+  font-size: 48px;
+  font-weight: normal;
+}
+
+.title_page .speee_logo img {
+  margin-top: -1.2em;
+  margin-bottom: 1em;
+  height: 56px;
+}
+
+.inverse {
+  background: #272822;
+  color: #777872;
+  text-shadow: 0 0 20px #333;
+}
+.inverse h1, .inverse h2 {
+  color: #f3f3f3;
+  line-height: 0.8em;
+}
+
+.image_only_page img {
+  height: 600px;
+}

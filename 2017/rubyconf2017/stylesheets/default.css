@@ -10,6 +10,10 @@ h1, h2, h3 {
 h1 {
   font-weight: bold;
 }
+li {
+  margin-top: .5em;
+  margin-bottom: .5em;
+}
 
 .w50pct img {
   width: 50%;

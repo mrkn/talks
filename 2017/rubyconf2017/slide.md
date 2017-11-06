@@ -21,13 +21,11 @@ class: middle
 
 ---
 class: middle
-# But Ruby prohibit us from that because
-# Ruby is hard to use for data science
+# But Ruby prohibit us from that because<br/>Ruby is hard to use for data science
 
 ---
 class: middle
-# But Ruby prohibit us from that because
-# Ruby is hard to use for data science, recently
+# But Ruby prohibit us from that because<br/>Ruby is hard to use for data science, recently
 
 ---
 class: middle
@@ -37,11 +35,8 @@ class: middle
 # self . introduction
 
 - Kenta Murata
-
 - @mrkn (github, twitter, etc.)
-
 - **Full-time CRuby committer** and Researcher at Speee Inc.
-
 - bigdecimal, enumerable-statistics, **pycall**, **mxnet.rb**, etc.
 
 ---
@@ -56,14 +51,11 @@ class: middle
 
 - Introduction to **pycall.rb**
     - How to use Python data tools from Ruby
-
 - Introduction to **mxnet.rb**
     - Now Ruby can do deep learning not only on CPU but also on GPU
-
 - The current best practice for using Ruby in data science
-
-- The future perspective (Apache Arrow, R, Spark, etc.)
-
+- The future perspective
+  - Apache Arrow, R, Spark, etc.
 - RubyData organization
 
 ---

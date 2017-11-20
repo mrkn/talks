@@ -1,6 +1,7 @@
 @import url(Yanone_Kaffeesatz.css);
 @import url(Droid_Serif.css);
 @import url(Ubuntu_Mono.css);
+@import url(font-awesome.css);
 
 body { font-family: 'Droid Serif'; }
 h1, h2, h3 {
@@ -15,14 +16,42 @@ li {
   margin-bottom: .5em;
 }
 
+.h280 img {
+  height: 280px;
+}
+
 .w50pct img {
   width: 50%;
+}
+.h50pct img {
+  height: 50%;
+}
+.w60pct img {
+  width: 60%;
+}
+.h60pct img {
+  height: 60%;
+}
+.w70pct img {
+  width: 70%;
+}
+.h70pct img {
+  height: 70%;
 }
 .w80pct img {
   width: 80%;
 }
+.h80pct img {
+  height: 80%;
+}
 .center {
   text-align: center;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
 }
 .hide {
   display: none;
@@ -65,6 +94,10 @@ li {
 .inverse h1, .inverse h2 {
   color: #f3f3f3;
   line-height: 0.8em;
+}
+
+.title_and_image_page img {
+  height: 480px;
 }
 
 .image_only_page img {

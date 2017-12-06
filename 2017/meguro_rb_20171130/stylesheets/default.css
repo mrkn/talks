@@ -1,11 +1,13 @@
 @import url(Yanone_Kaffeesatz.css);
 @import url(Droid_Serif.css);
 @import url(Ubuntu_Mono.css);
+@import url(Noto_Sans_Japanese.css);
+@import url(Title.css);
 @import url(font-awesome.css);
 
 body { font-family: 'Droid Serif'; }
 h1, h2, h3 {
-  font-family: 'Yanone Kaffeesatz';
+  font-family: 'Title';
   font-weight: normal;
 }
 h1 {

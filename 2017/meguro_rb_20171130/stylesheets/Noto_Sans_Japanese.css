@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'Noto Sans Japanese';
+  font-style: normal;
+  font-weight: 100;
+  src: local('NotoSansCJKJP-Thin'), url(../fonts/notosanscjkjp/NotoSansCJKjp-Thin.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Noto Sans Japanese';
+  font-style: normal;
+  font-weight: 200;
+  src: local('NotoSansCJKJP-Light'), url(../fonts/notosanscjkjp/NotoSansCJKjp-Light.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Noto Sans Japanese';
+  font-style: normal;
+  font-weight: 300;
+  src: local('NotoSansCJKJP-DemiLight'), url(../fonts/notosanscjkjp/NotoSansCJKjp-DemiLight.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Noto Sans Japanese';
+  font-style: normal;
+  font-weight: 400;
+  src: local('NotoSansCJKJP-Regular'), url(../fonts/notosanscjkjp/NotoSansCJKjp-Regular.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Noto Sans Japanese';
+  font-style: normal;
+  font-weight: 500;
+  src: local('NotoSansCJKJP-Medium'), url(../fonts/notosanscjkjp/NotoSansCJKjp-Medium.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Noto Sans Japanese';
+  font-style: normal;
+  font-weight: 700;
+  src: local('NotoSansCJKJP-Bold'), url(../fonts/notosanscjkjp/NotoSansCJKjp-Bold.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Noto Sans Japanese';
+  font-style: normal;
+  font-weight: 900;
+  src: local('NotoSansCJKJP-Black'), url(../fonts/notosanscjkjp/NotoSansCJKjp-Black.otf) format('opentype');
+}
